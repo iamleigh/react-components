@@ -3,6 +3,8 @@ const config = {
   stories: [
     "../stories/**/*.mdx",
     "../stories/**/*.stories.@(js|jsx|mjs|ts|tsx)",
+	"../packages/**/stories/*.mdx",
+    "../packages/**/stories/*.stories.@(js|jsx|mjs|ts|tsx)"
   ],
   addons: [
     "@storybook/addon-webpack5-compiler-swc",
