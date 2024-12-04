@@ -1,3 +1,7 @@
+# Ignore folders
 .cache
-.DS_Store
 node_modules
+
+# Ignore files
+*.log
+.DS_Store
