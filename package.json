@@ -8,9 +8,22 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+	"react",
+	"react-components",
+	"storybook"
+  ],
+  "author": {
+	"name": "Leighton Quito",
+	"email": "2328848+iamleigh@users.noreply.github.com",
+	"url": "https://iamleigh.com"
+  },
+  "license": "MIT",
+  "repository": {
+	"type": "git",
+	"url": "git+https://github.com/iamleigh/react-components.git"
+  },
+  "dependencies": {},
   "devDependencies": {
     "@chromatic-com/storybook": "^3.2.2",
     "@storybook/addon-essentials": "^8.4.6",
