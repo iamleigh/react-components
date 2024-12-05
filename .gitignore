@@ -1,7 +1,11 @@
-# Ignore folders
-.cache
 node_modules
-
-# Ignore files
-*.log
 .DS_Store
+.changelog
+.dccache
+.cache
+
+# Ignore all error logs.
+*.log
+
+# Ignore Storybook production build.
+storybook-static
