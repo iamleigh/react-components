@@ -30,6 +30,7 @@
     "./packages/*"
   ],
   "devDependencies": {
+    "@10up/stylelint-config": "^3.0.0",
     "@babel/core": "^7.18.9",
     "@storybook/addon-a11y": "^6.5.15",
     "@storybook/addon-actions": "^6.5.9",
@@ -41,7 +42,7 @@
     "@storybook/manager-webpack5": "^6.5.9",
     "@storybook/react": "^6.5.9",
     "@storybook/testing-library": "^0.0.13",
-	"babel-loader": "^8.2.5",
+    "babel-loader": "^8.2.5",
     "css-loader": "^6.7.1",
     "dedent": "^0.7.0",
     "gh-pages": "^4.0.0",
